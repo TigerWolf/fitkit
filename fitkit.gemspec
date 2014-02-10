@@ -5,6 +5,7 @@ require 'fitkit/version'
 
 Gem::Specification.new do |spec|
   spec.add_development_dependency 'bundler', '~> 1.0'
+  spec.add_dependency "oauth"
   spec.authors = ["Kieran Anddrews"]
   spec.description = %q{Simple wrapper for the Fitbit API}
   spec.email = ['hiddentiger@gmail.com']

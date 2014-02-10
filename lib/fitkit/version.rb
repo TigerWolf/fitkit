@@ -1,4 +1,4 @@
-module Octokit
+module Fitkit
 
   # Current version
   # @return [String]
